@@ -8,6 +8,10 @@ Year971 Texture Pack é um pacote de texturas e recursos compativel com minecraf
 Atualmente o pacote de texturas e recursos Year971 conta com
 - Faithful 1.16 (Base)
 https://faithful.team/
+- Default Dark Mode (Aparencia dos Menus)
+https://www.curseforge.com/minecraft/texture-packs/default-dark-mode
+- Colourful Containers Dark (Aparencia dos Menus)
+https://www.planetminecraft.com/texture-pack/colourful-containers-dark-mode-gui-optifine-required/
 - Itembound 1.9 (Novos itens)
 https://www.planetminecraft.com/texture-pack/itembound-fixed/
 - Spawn Egg 3D (Para ovos de geração)
