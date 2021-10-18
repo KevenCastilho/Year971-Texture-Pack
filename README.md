@@ -69,4 +69,4 @@ https://vanillatweaks.net/picker/resource-packs/
 >DoubleSlabFix
 
 ## Guia para utilizar os novos itens
-(/ItemBound/01.png)
+!(/ItemBound/01.png)
