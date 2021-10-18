@@ -19,54 +19,54 @@ https://www.planetminecraft.com/texture-pack/cute-mob-models-resource-pack-my-ow
 - Vanilla Tweaks (Recursos Extras)
 https://vanillatweaks.net/picker/resource-packs/
 
-##### Lista de Recursos Extras :
+### Lista de Recursos Extras :
 .
->DifferentStems
->BetterParticles
->HDShieldBanners
->AnimatedCampfireItem
->PolishedStonesToBricks
->BushyLeaves
->DarkerDarkOakLeaves
->FancySunflowers
->GrassSides
->MyceliumSides
->PathSides
->PodzolSides
->SnowSides
->CrimsonNyliumSides
->WarpedNyliumSides
->QuieterMinecarts
->OreBorders
->VisualInfestedStoneItems
->HungerPreview
->StickyPistonSides
->DirectionalHoppers
->DirectionalDispensersDroppers
->BetterObservers
->GroovyLevers
->CompassLodestone
->BrewingGuideDark
->VisualHoney
->VisualCauldronStages
->VisualComposterStages
->VisualSaplingGrowth
->NoteblockBanners
->3DTiles
->3DLadders
->3DRails
->3DSugarcane
->3DIronBars
->3DLilyPads
->3DMushrooms
->3DStonecutters
->3DDoors&Trapdoors
->3DVines
->PingColorIndicator
->NumberedHotbar
->StandardGalactic
->SGAToEnglish
->DoubleSlabFix
+> DifferentStems
+> BetterParticles
+> HDShieldBanners
+> AnimatedCampfireItem
+> PolishedStonesToBricks
+> BushyLeaves
+> DarkerDarkOakLeaves
+> FancySunflowers
+> GrassSides
+> MyceliumSides
+> PathSides
+> PodzolSides
+> SnowSides
+> CrimsonNyliumSides
+> WarpedNyliumSides
+> QuieterMinecarts
+> OreBorders
+> VisualInfestedStoneItems
+> HungerPreview
+> StickyPistonSides
+> DirectionalHoppers
+> DirectionalDispensersDroppers
+> BetterObservers
+> GroovyLevers
+> CompassLodestone
+> BrewingGuideDark
+> VisualHoney
+> VisualCauldronStages
+> VisualComposterStages
+> VisualSaplingGrowth
+> NoteblockBanners
+> 3DTiles
+> 3DLadders
+> 3DRails
+> 3DSugarcane
+> 3DIronBars
+> 3DLilyPads
+> 3DMushrooms
+> 3DStonecutters
+> 3DDoors&Trapdoors
+> 3DVines
+> PingColorIndicator
+> NumberedHotbar
+> StandardGalactic
+> SGAToEnglish
+> DoubleSlabFix
 
 ## Guia para utilizar os novos itens
 <img src="ItemBound/01.png" />
@@ -130,4 +130,3 @@ https://vanillatweaks.net/picker/resource-packs/
 <img src="ItemBound/59.png" />
 <img src="ItemBound/60.png" />
 <img src="ItemBound/61.png" />
-
