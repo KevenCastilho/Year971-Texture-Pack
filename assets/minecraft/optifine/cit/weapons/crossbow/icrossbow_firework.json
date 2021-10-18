@@ -1,0 +1,6 @@
+{
+    "parent": "./icrossbow",
+    "textures": {
+        "layer0": "./icrossbow_firework"
+    }
+}

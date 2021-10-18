@@ -1,0 +1,51 @@
+{
+    "__comment": "Model generated using MrCrayfish's Model Creator (https://mrcrayfish.com/tools?id=mc)",
+    "textures": {
+        "carved_pumpkin": "optifine/cit/items/enchs/49curse_of_vanishing/other/carved_pumpkin",
+        "pumpkin_top": "optifine/cit/items/enchs/49curse_of_vanishing/other/ptop",
+        "pumpkin_left": "optifine/cit/items/enchs/49curse_of_vanishing/other/pleft",
+        "pumpkin_right": "optifine/cit/items/enchs/49curse_of_vanishing/other/pright",
+        "pumpkin_back": "optifine/cit/items/enchs/49curse_of_vanishing/other/pback"
+    },
+    "display": {
+        "gui": {
+            "rotation": [ 30, 225, 0 ],
+            "translation": [ 0, 0, 0 ],
+            "scale": [ 0.625, 0.625, 0.625 ]
+        },
+        "ground": {
+            "rotation": [ 0, 0, 0 ],
+            "translation": [ 0, 3, 0 ],
+            "scale": [ 0.25, 0.25, 0.25 ]
+        },
+        "fixed": {
+            "rotation": [ 0, 0, 0 ],
+            "translation": [ 0, 0, 0 ],
+            "scale": [ 0.5, 0.5, 0.5 ]
+        },
+        "firstperson_righthand": {
+            "rotation": [ 0, 45, 0 ],
+            "translation": [ 0, 2.5, 0 ],
+            "scale": [ 0.4, 0.4, 0.4 ]
+        },
+        "thirdperson_righthand": {
+            "rotation": [ 75, 45, 0 ],
+            "translation": [ 0, 2.5, 0 ],
+            "scale": [ 0.375, 0.375, 0.375 ]
+        }
+    },
+    "elements": [
+        {
+            "name": "Cube",
+            "from": [ 0, 0, 0 ], 
+            "to": [ 16, 16, 16 ], 
+            "faces": {
+                "north": { "texture": "#carved_pumpkin", "uv": [ 0, 0, 16, 16 ] },
+                "east": { "texture": "#pumpkin_left", "uv": [ 0, 0, 16, 16 ] },
+                "south": { "texture": "#pumpkin_back", "uv": [ 0, 0, 16, 16 ] },
+                "west": { "texture": "#pumpkin_right", "uv": [ 0, 0, 16, 16 ] },
+                "up": { "texture": "#pumpkin_top", "uv": [ 0, 0, 16, 16 ] }
+            }
+        }
+    ]
+}

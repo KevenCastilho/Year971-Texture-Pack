@@ -1,0 +1,7 @@
+{
+  "parent": "item/hammer",
+  "textures": {
+    "stick": "./stick",
+    "material": "./stone"
+  }
+}

@@ -1,0 +1,31 @@
+{
+    "variants": {
+        "snowy=false": [
+            { "model": "block/podzol", "weight": 25 },
+            { "model": "block/podzol", "y": 90, "weight": 25  },
+            { "model": "block/podzol", "y": 180, "weight": 25  },
+            { "model": "block/podzol", "y": 270, "weight": 25  },
+			{ "model": "block/podzol1", "weight": 50 },
+			{ "model": "block/podzol1", "y": 90, "weight": 50  },
+            { "model": "block/podzol1", "y": 180, "weight": 50  },
+            { "model": "block/podzol1", "y": 270, "weight": 50  },
+			{ "model": "block/podzol2", "weight": 25 },
+			{ "model": "block/podzol2", "y": 90, "weight": 25  },
+            { "model": "block/podzol2", "y": 180, "weight": 25  },
+            { "model": "block/podzol2", "y": 270, "weight": 25  },
+			{ "model": "block/podzol3", "weight": 50 },
+			{ "model": "block/podzol3", "y": 90, "weight": 50  },
+            { "model": "block/podzol3", "y": 180, "weight": 50  },
+            { "model": "block/podzol3", "y": 270, "weight": 50  },
+			{ "model": "block/podzol4", "weight": 50 },
+			{ "model": "block/podzol4", "y": 90, "weight": 50  },
+            { "model": "block/podzol4", "y": 180, "weight": 50  },
+            { "model": "block/podzol4", "y": 270, "weight": 50  },
+			{ "model": "block/podzol5", "weight": 50 },
+			{ "model": "block/podzol5", "y": 90, "weight": 50  },
+            { "model": "block/podzol5", "y": 180, "weight": 50  },
+            { "model": "block/podzol5", "y": 270, "weight": 50  }
+			],
+        "snowy=true": { "model": "block/grass_block_snow" }
+    }
+}

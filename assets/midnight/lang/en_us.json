@@ -1,0 +1,31 @@
+{
+  "_comment": "Item Groups",
+  
+  "itemGroup.midnight_building": "\u00A7fMidnight Building",
+  "itemGroup.midnight_decoration": "\u00A7fMidnight Decoration",
+  "itemGroup.midnight_items": "\u00A7fMidnight Items",
+  "itemGroup.midnight_tools": "\u00A7fMidnight Tools",
+  "itemGroup.midnight_combat": "\u00A7fMidnight Combat",
+
+  "_comment": "Blocks",
+
+  "block.midnight.shadowroot_chest": "\u00A7fShadowroot Chest",
+  "block.midnight.dark_willow_chest": "\u00A7fDark Willow Chest",
+  "block.midnight.dead_wood_chest": "\u00A7fDead Wood Chest",
+  "block.midnight.nightshroom_chest": "\u00A7fNightshroom Chest",
+  "block.midnight.dewshroom_chest": "\u00A7fDewshroom Chest",
+  "block.midnight.viridshroom_chest": "\u00A7fViridshroom Chest",
+  "block.midnight.bogshroom_chest": "\u00A7fBogshroom Chest",
+
+  "block.midnight.nightstone_furnace": "\u00A7fNightstone Furnace",
+
+  "block.midnight.viridshroom_stem_cache": "\u00A7fHidden Cache",
+
+  "block.midnight.shadowroot_crafting_table": "\u00A7fShadowroot Crafting Table",
+  "block.midnight.dark_willow_crafting_table": "\u00A7fDark Willow Crafting Table",
+  "block.midnight.dead_wood_crafting_table": "\u00A7fDead Wood Crafting Table",
+  "block.midnight.viridshroom_crafting_table": "\u00A7fViridshroom Crafting Table",
+  "block.midnight.dewshroom_crafting_table": "\u00A7fDewshroom Crafting Table",
+  "block.midnight.nightshroom_crafting_table": "\u00A7fNightshroom Crafting Table",
+  "block.midnight.bogshroom_crafting_table": "\u00A7fBogshroom Crafting Table"
+}

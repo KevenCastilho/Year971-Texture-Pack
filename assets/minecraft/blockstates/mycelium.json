@@ -1,0 +1,19 @@
+{
+    "variants": {
+        "snowy=false": [
+            { "model": "block/mycelium" },
+            { "model": "block/mycelium", "y": 90 },
+            { "model": "block/mycelium", "y": 180 },
+            { "model": "block/mycelium", "y": 270 },
+            { "model": "block/mycelium1" },
+            { "model": "block/mycelium1", "y": 90 },
+            { "model": "block/mycelium1", "y": 180 },
+            { "model": "block/mycelium1", "y": 270 },
+            { "model": "block/mycelium2" },
+            { "model": "block/mycelium2", "y": 90 },
+            { "model": "block/mycelium2", "y": 180 },
+            { "model": "block/mycelium2", "y": 270 }
+        ],
+        "snowy=true":  { "model": "block/grass_block_snow" }
+    }
+}

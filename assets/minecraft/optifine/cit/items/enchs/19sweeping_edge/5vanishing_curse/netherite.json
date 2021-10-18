@@ -1,0 +1,6 @@
+{
+  "parent": "item/longsword",
+  "textures": {
+    "0": "./netherite_sword"
+  }
+}

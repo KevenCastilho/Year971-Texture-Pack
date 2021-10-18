@@ -1,0 +1,6 @@
+{
+  "parent": "item/longsword",
+  "textures": {
+    "0": "./stone_sword"
+  }
+}

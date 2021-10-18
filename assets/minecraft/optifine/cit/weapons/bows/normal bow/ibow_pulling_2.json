@@ -1,0 +1,6 @@
+{
+    "parent": "./ibow",
+    "textures": {
+        "layer0": "./ibow_pulling_2"
+    }
+}

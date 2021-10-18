@@ -1,0 +1,39 @@
+{
+    "block.cookingforblockheads.cooking_table": "\u00A7fCooking Table",
+    "block.cookingforblockheads.fridge": "\u00A7fFridge",
+    "block.cookingforblockheads.sink": "\u00A7fSink",
+    "block.cookingforblockheads.counter": "\u00A7fKitchen Counter",
+    "block.cookingforblockheads.cabinet": "\u00A7fKitchen Cabinet",
+    "block.cookingforblockheads.corner": "\u00A7fKitchen Corner",
+    "block.cookingforblockheads.oven": "\u00A7fOven",
+    "block.cookingforblockheads.fruit_basket": "\u00A7fFruit Basket",
+    "block.cookingforblockheads.tool_rack": "\u00A7fTool Rack",
+    "block.cookingforblockheads.milk_jar": "\u00A7fMilk Jar",
+    "block.cookingforblockheads.cow_jar": "\u00A7fCow in a Jar",
+    "block.cookingforblockheads.toaster": "\u00A7fToaster",
+    "block.cookingforblockheads.spice_rack": "\u00A7fSpice Rack",
+    "block.cookingforblockheads.kitchen_floor": "\u00A7fKitchen Floor",
+    "block.cookingforblockheads.cutting_board": "\u00A7fCutting Board",
+
+    "gui.cookingforblockheads:no_ingredients": "\u00A7fNot\\nenough\\ningredients",
+    "gui.cookingforblockheads:no_selection": "\u00A7fSelect an item\\non the right to\\nsee its recipe.",
+
+    "_comment": "##",
+
+    "container.cookingforblockheads.oven": "\u00A7fCooking Oven",
+    "container.cookingforblockheads.fridge": "\u00A7fFridge",
+    "container.cookingforblockheads.spice_rack": "\u00A7fSpice Rack",
+    "container.cookingforblockheads.counter": "\u00A7fKitchen Counter",
+    "container.cookingforblockheads.cabinet": "\u00A7fKitchen Cabinet",
+    "container.cookingforblockheads.fruit_basket": "\u00A7fFruit Basket",
+
+    "itemGroup.cookingforblockheads": "\u00A7fCooking for Blockheads",
+
+    "waila.cookingforblockheads:milk_stored": "\u00A7fMilk Stored: %d/%d",
+    "waila.cookingforblockheads:toast_progress": "\u00A7fToasting... (%s)",
+    "waila.cookingforblockheads:heating_unit": "\u00A7fUpgrade: Heating Unit",
+    "waila.cookingforblockheads:ice_unit": "\u00A7fUpgrade: Ice Unit",
+    "waila.cookingforblockheads:preservation_chamber": "\u00A7fUpgrade: Preservation Chamber",
+
+    "jei.cookingforblockheads:cow_jar": "\u00A7fCow in a Jar"
+}

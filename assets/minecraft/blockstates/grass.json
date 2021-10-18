@@ -1,0 +1,22 @@
+{
+    "variants": {
+        "": [
+            { "model": "block/oak_leaves2", "weight": 2 },
+            { "model": "block/oak_leaves2", "y": 90, "weight": 2 },
+            { "model": "block/oak_leaves2", "y": 180, "weight": 2 },
+            { "model": "block/oak_leaves2", "y": 270, "weight": 2 },
+            { "model": "block/birch_leaves2", "weight": 2 },
+            { "model": "block/birch_leaves2", "y": 90, "weight": 2 },
+            { "model": "block/birch_leaves2", "y": 180, "weight": 2 },
+            { "model": "block/birch_leaves2", "y": 270, "weight": 2 },
+            { "model": "block/jungle_leaves2", "weight": 2 },
+            { "model": "block/jungle_leaves2", "y": 90, "weight": 2 },
+            { "model": "block/jungle_leaves2", "y": 180, "weight": 2 },
+            { "model": "block/jungle_leaves2", "y": 270, "weight": 2 },
+            { "model": "block/grass", "weight": 9 },
+            { "model": "block/grass", "y": 90, "weight": 9 },
+            { "model": "block/grass", "y": 180, "weight": 9 },
+            { "model": "block/grass", "y": 270, "weight": 9 }
+        ]
+    }
+}

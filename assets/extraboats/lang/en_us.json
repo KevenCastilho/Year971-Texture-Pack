@@ -1,0 +1,10 @@
+{
+  "itemGroup.extraboats": "\u00A7fExtra Boats",
+  
+  "advancements.adventure.get_in_the_boat.title": "Get in the Boat!",
+  "advancements.adventure.get_in_the_boat.description": "\u00A7dRide a large boat with three villagers"
+
+  "entity.extraboats.chest_boat": "\u00A7Boat with Chest",
+  "entity.extraboats.furnace_boat": "\u00A7Boat with Furnace",
+  "entity.extraboats.large_boat": "\u00A7Large Boat"
+}
