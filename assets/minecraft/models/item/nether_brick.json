@@ -1,0 +1,14 @@
+{
+  "parent": "item/generated",
+  "textures": {
+    "layer0":"item/nether_brick"
+  },
+  "overrides": [
+    { "predicate": {"custom_model_data":88}, "model":"item/used_trophy" },
+    { "predicate": {"custom_model_data":89}, "model":"item/ice_trophy_incomplete" },
+    { "predicate": {"custom_model_data":90}, "model":"item/ice_trophy_incomplete_2" },
+    { "predicate": {"custom_model_data":91}, "model":"item/icicle" },
+    { "predicate": {"custom_model_data":92}, "model":"item/tdpmarker" },
+    { "predicate": {"custom_model_data":93}, "model":"item/ice_bomb" }
+  ]
+}

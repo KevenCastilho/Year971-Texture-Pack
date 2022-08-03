@@ -1,0 +1,21 @@
+{
+    "parent": "block/gold_block",
+	"overrides": [
+		{"predicate": { "custom_model_data":1}, "model": "item/pig_boss_head"},
+		{"predicate": { "custom_model_data":2}, "model": "item/pig_boss_body"},
+		{"predicate": { "custom_model_data":3}, "model": "item/pig_boss_mace"},
+		{"predicate": { "custom_model_data":4}, "model": "item/pig_boss_body_t1"},
+		{"predicate": { "custom_model_data":5}, "model": "item/pig_boss_body_t2"},
+		{"predicate": { "custom_model_data":6}, "model": "item/pig_boss_body_t3"},
+		{"predicate": { "custom_model_data":11}, "model": "item/pig_boss_body_t11"},
+		{"predicate": { "custom_model_data":12}, "model": "item/pig_boss_body_t12"},
+		{"predicate": { "custom_model_data":13}, "model": "item/pig_boss_body_t13"},
+		{"predicate": { "custom_model_data":14}, "model": "item/pig_boss_body_t14"},
+		{"predicate": { "custom_model_data":15}, "model": "item/pig_boss_body_t15"},
+		{"predicate": { "custom_model_data":16}, "model": "item/pig_boss_body_t16"},
+		{"predicate": { "custom_model_data":17}, "model": "item/pig_boss_body_t17"},
+		{"predicate": { "custom_model_data":18}, "model": "item/pig_boss_body_t18"},
+		{"predicate": { "custom_model_data":101}, "model": "item/pig_boss_head_t1"},
+		{"predicate": { "custom_model_data":102}, "model": "item/pig_boss_head_t2"}
+	]
+}

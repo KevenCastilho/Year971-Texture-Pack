@@ -1,0 +1,61 @@
+{
+	"credit": "Made with Blockbench",
+	"texture_size": [64, 64],
+	"textures": {
+		"0": "mb:item/queen_bee/bee_stinger_1",
+		"particle": "mb:item/queen_bee/bee_stinger_1"
+	},
+	"elements": [
+		{
+			"name": "stinger1",
+			"from": [8, 0, 2.5],
+			"to": [8, 22, 13.5],
+			"faces": {
+				"north": {"uv": [0, 0, 0, 5.5], "texture": "#0"},
+				"east": {"uv": [0, 0, 2.75, 5.5], "texture": "#0"},
+				"south": {"uv": [0, 0, 0, 5.5], "texture": "#0"},
+				"west": {"uv": [2.75, 2.75, 5.5, 8.25], "texture": "#0"},
+				"up": {"uv": [0, 2.75, 0, 0], "texture": "#0"},
+				"down": {"uv": [0, 0, 0, 2.75], "texture": "#0"}
+			}
+		},
+		{
+			"name": "stinger2",
+			"from": [2.5, 0, 8],
+			"to": [13.5, 22, 8],
+			"faces": {
+				"north": {"uv": [0, 5.5, 2.75, 11], "texture": "#0"},
+				"east": {"uv": [0, 0, 0, 5.5], "texture": "#0"},
+				"south": {"uv": [5.5, 5.5, 8.25, 11], "texture": "#0"},
+				"west": {"uv": [0, 0, 0, 5.5], "texture": "#0"},
+				"up": {"uv": [2.75, 0, 0, 0], "texture": "#0"},
+				"down": {"uv": [2.75, 0, 0, 0], "texture": "#0"}
+			}
+		}
+	],
+	"display": {
+		"thirdperson_righthand": {
+			"translation": [0, 0, 0.5]
+		},
+		"thirdperson_lefthand": {
+			"translation": [0, 0, 0.5]
+		},
+		"firstperson_righthand": {
+			"translation": [0, -2.25, 0]
+		},
+		"firstperson_lefthand": {
+			"translation": [0, -2.25, 0]
+		},
+		"head": {
+			"translation": [0, -27.25, 0],
+			"scale": [2, 2, 2]
+		}
+	},
+	"groups": [
+		{
+			"name": "stinger",
+			"origin": [0, 0, 0],
+			"children": [0, 1]
+		}
+	]
+}

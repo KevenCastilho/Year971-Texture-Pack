@@ -1,0 +1,74 @@
+{
+  "parent": "item/generated",
+  "textures": {
+    "layer0": "item/barrier"
+  },
+  "overrides": [
+    {
+      "predicate": {
+        "custom_model_data": 1
+      },
+      "model": "mb:item/advancements/root"
+
+    },
+
+    {
+      "predicate": {
+        "custom_model_data": 10000
+      },
+      "model": "mb:item/advancements/slime_sword"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 10001
+      },
+      "model": "mb:item/advancements/slime_axe"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 10002
+      },
+      "model": "mb:item/advancements/shattered_crown"
+
+    },
+
+    {
+      "predicate": {
+        "custom_model_data": 20000
+      },
+      "model": "mb:item/advancements/soul_sword"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 20001
+      },
+      "model": "mb:item/advancements/soul_axe"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 20002
+      },
+      "model": "mb:item/advancements/mirror"
+
+    },
+
+    {
+      "predicate": {
+        "custom_model_data": 30000
+      },
+      "model": "mb:item/advancements/bee_sword"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 30001
+      },
+      "model": "mb:item/advancements/bee_axe"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 30002
+      },
+      "model": "mb:item/advancements/dead_bruce"
+    }
+  ]
+}

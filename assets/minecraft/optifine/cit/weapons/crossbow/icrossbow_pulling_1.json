@@ -1,6 +1,0 @@
-{
-    "parent": "./icrossbow",
-    "textures": {
-        "layer0": "./icrossbow_pulling_1"
-    }
-}

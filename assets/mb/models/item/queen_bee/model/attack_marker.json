@@ -1,0 +1,43 @@
+{
+	"credit": "Made with Blockbench",
+	"texture_size": [32, 32],
+	"textures": {
+		"0": "mb:item/queen_bee/attack_marker",
+		"particle": "mb:item/queen_bee/attack_marker"
+	},
+	"elements": [
+		{
+			"name": "marker",
+			"from": [0, 0.1, 0],
+			"to": [16, 0.1, 16],
+			"faces": {
+				"north": {"uv": [0, 0, 8, 0], "texture": "#0"},
+				"east": {"uv": [0, 0, 8, 0], "texture": "#0"},
+				"south": {"uv": [0, 0, 8, 0], "texture": "#0"},
+				"west": {"uv": [0, 0, 8, 0], "texture": "#0"},
+				"up": {"uv": [8, 8, 0, 0], "texture": "#0"},
+				"down": {"uv": [8, 8, 0, 16], "texture": "#0"}
+			}
+		}
+	],
+	"display": {
+		"thirdperson_righthand": {
+			"translation": [0, 7.25, -5]
+		},
+		"thirdperson_lefthand": {
+			"translation": [0, 7.25, -5]
+		},
+		"firstperson_righthand": {
+			"translation": [3.5, 5, -5]
+		},
+		"firstperson_lefthand": {
+			"translation": [3.5, 5, -5]
+		},
+		"ground": {
+			"translation": [0, 6.75, 0]
+		},
+		"head": {
+			"translation": [0, -37, 0]
+		}
+	}
+}

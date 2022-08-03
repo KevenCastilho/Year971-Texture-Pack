@@ -1,0 +1,39 @@
+{
+  "providers": [{
+      "type": "bitmap",
+      "file": "mb:item/king_slime/bossbar.png",
+      "ascent": 10,
+      "height": 50,
+      "chars": [
+        "\ub001"
+      ]
+   },
+   {
+      "type": "bitmap",
+      "file": "mb:item/queen_bee/bossbar.png",
+      "ascent": 10,
+      "height": 50,
+      "chars": [
+        "\ub002"
+      ]
+   },
+   {
+      "type": "bitmap",
+      "file": "mb:item/restless_soul/bossbar.png",
+      "ascent": 10,
+      "height": 50,
+      "chars": [
+        "\ub003"
+      ]
+   },
+   {
+      "type": "bitmap",
+      "file": "mb:item/herobrine/bossbar.png",
+      "ascent": 10,
+      "height": 50,
+      "chars": [
+        "\ub004"
+      ]
+    }
+  ]
+}
