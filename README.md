@@ -72,6 +72,106 @@ https://vanillatweaks.net/picker/resource-packs/
  - -  SGAToEnglish
  - -  DoubleSlabFix
 
+<details>
+<summary>Guia de uso do ItemBound</summary>
+
+![ItemBound Logo](https://github.com/KevenCastilho/Year971-Texture-Pack/raw/main/ItemBound/0.png)
+
+## Armamentos
+### Classicos
+|Icone|Nome|Item|Encantamento|
+|--|--|--|-|
+|![Adaga](https://github.com/KevenCastilho/Year971-Texture-Pack/raw/main/ItemBound/table/5.png)|Dagger|Qualquer Espada|-|
+|![Katana](https://github.com/KevenCastilho/Year971-Texture-Pack/raw/main/ItemBound/table/6.png)|Katana|Qualquer Espada|-|
+|![Espada Longa](https://github.com/KevenCastilho/Year971-Texture-Pack/raw/main/ItemBound/table/7.png)|Longsword|Qualquer Espada|-|
+|![enter image description here](https://github.com/KevenCastilho/Year971-Texture-Pack/raw/main/ItemBound/table/8.png)|Nunchuck|Qualquer Espada|-|
+|![Rapieira](https://github.com/KevenCastilho/Year971-Texture-Pack/raw/main/ItemBound/table/9.png)|Rapier|Qualquer Espada|-|
+|![Lança](https://github.com/KevenCastilho/Year971-Texture-Pack/raw/main/ItemBound/table/10.png)|Spear|Qualquer Espada|-|
+|![Tridente](https://github.com/KevenCastilho/Year971-Texture-Pack/raw/main/ItemBound/table/11.png)|Trident|Qualquer Espada|-|
+|![Machado de Batalha](https://github.com/KevenCastilho/Year971-Texture-Pack/raw/main/ItemBound/table/12.png)|Battle Axe|Qualquer Machado|-|
+|![Foice](https://github.com/KevenCastilho/Year971-Texture-Pack/raw/main/ItemBound/table/13.png)|Scythe|Qualquer Machado|-|
+
+ ### Arcos
+
+|Icone|Nome|Item|Encantamento|
+|--|--|--|--|
+|![Arco em Chamas](https://github.com/KevenCastilho/Year971-Texture-Pack/raw/main/ItemBound/table/14.png)|Blaze Bow|Arco|Chama|
+|![Arco Azul](https://github.com/KevenCastilho/Year971-Texture-Pack/raw/main/ItemBound/table/15.png)|Bluejay Bow|Arco|-|
+|![Arco Cardinal](https://github.com/KevenCastilho/Year971-Texture-Pack/raw/main/ItemBound/table/16.png)|Cardinal Bow|Arco|-|
+|![Arco-Iris](https://github.com/KevenCastilho/Year971-Texture-Pack/raw/main/ItemBound/table/17.png)|Rain-Bow|Arco|Infinidade
+
+### Espadas de Blocos
+|Icone|Nome|Item|Encantamento|
+|--|--|--|--|
+|![Espada de Pedra Matriz](https://github.com/KevenCastilho/Year971-Texture-Pack/raw/main/ItemBound/table/18.png)|Bedrock Sword|Qualquer Espada|Inquebravel|
+|![-](https://github.com/KevenCastilho/Year971-Texture-Pack/raw/main/ItemBound/table/19.png)|Red Concrete Sword|Qualquer Espada|-|
+|![-](https://github.com/KevenCastilho/Year971-Texture-Pack/raw/main/ItemBound/table/19.png)|Orange Concrete Sword|Qualquer Espada|-|
+|![-](https://github.com/KevenCastilho/Year971-Texture-Pack/raw/main/ItemBound/table/19.png)|Yellow Concrete Sword|Qualquer Espada|-|
+|![-](https://github.com/KevenCastilho/Year971-Texture-Pack/raw/main/ItemBound/table/19.png)|Lime Concrete Sword|Qualquer Espada|-|
+|![-](https://github.com/KevenCastilho/Year971-Texture-Pack/raw/main/ItemBound/table/19.png)|Green Concrete Sword|Qualquer Espada|-|
+|![-](https://github.com/KevenCastilho/Year971-Texture-Pack/raw/main/ItemBound/table/19.png)|Cyan Concrete Sword|Qualquer Espada|-|
+|![-](https://github.com/KevenCastilho/Year971-Texture-Pack/raw/main/ItemBound/table/19.png)|Light-Blue Concrete Sword|Qualquer Espada|-|
+|![-](https://github.com/KevenCastilho/Year971-Texture-Pack/raw/main/ItemBound/table/19.png)|Blue Concrete Sword|Qualquer Espada|-|
+|![-](https://github.com/KevenCastilho/Year971-Texture-Pack/raw/main/ItemBound/table/19.png)|Purple Concrete Sword|Qualquer Espada|-|
+|![-](https://github.com/KevenCastilho/Year971-Texture-Pack/raw/main/ItemBound/table/19.png)|Magenta Concrete Sword|Qualquer Espada|-|
+|![-](https://github.com/KevenCastilho/Year971-Texture-Pack/raw/main/ItemBound/table/19.png)|Pink Concrete Sword|Qualquer Espada|-|
+|![-](https://github.com/KevenCastilho/Year971-Texture-Pack/raw/main/ItemBound/table/19.png)|Brown Concrete Sword|Qualquer Espada|-|
+|![-](https://github.com/KevenCastilho/Year971-Texture-Pack/raw/main/ItemBound/table/19.png)|White Concrete Sword|Qualquer Espada|-|
+|![-](https://github.com/KevenCastilho/Year971-Texture-Pack/raw/main/ItemBound/table/19.png)|Light-Gray Concrete Sword|Qualquer Espada|-|
+|![-](https://github.com/KevenCastilho/Year971-Texture-Pack/raw/main/ItemBound/table/19.png)|Gray Concrete Sword|Qualquer Espada|-|
+|![-](https://github.com/KevenCastilho/Year971-Texture-Pack/raw/main/ItemBound/table/19.png)|Black Concrete Sword|Qualquer Espada|-|
+|![-](https://github.com/KevenCastilho/Year971-Texture-Pack/raw/main/ItemBound/table/20.png)|Emerald Sword|Qualquer Espada|Saque|
+|![-](https://github.com/KevenCastilho/Year971-Texture-Pack/raw/main/ItemBound/table/21.png)|Glass Sword|Qualquer Espada|-|
+|![-](https://github.com/KevenCastilho/Year971-Texture-Pack/raw/main/ItemBound/table/22.png)|Nether Sword|Qualquer Espada|Aspecto Flamejante|
+|![-](https://github.com/KevenCastilho/Year971-Texture-Pack/raw/main/ItemBound/table/23.png)|Obsidian Sword|Qualquer Espada|Repulsão|
+|![-](https://github.com/KevenCastilho/Year971-Texture-Pack/raw/main/ItemBound/table/24.png)|Rainbow Sword|Qualquer Espada|-|
+|![-](https://github.com/KevenCastilho/Year971-Texture-Pack/raw/main/ItemBound/table/25.png)|Andesite Sword|Qualquer Espada|-|
+|![-](https://github.com/KevenCastilho/Year971-Texture-Pack/raw/main/ItemBound/table/25.png)|Diorite Sword|Qualquer Espada|-|
+|![-](https://github.com/KevenCastilho/Year971-Texture-Pack/raw/main/ItemBound/table/25.png)|Granite Sword|Qualquer Espada|-|
+|![-](https://github.com/KevenCastilho/Year971-Texture-Pack/raw/main/ItemBound/table/26.png)|Sandstone Sword|Qualquer Espada|-|
+|![-](https://github.com/KevenCastilho/Year971-Texture-Pack/raw/main/ItemBound/table/26.png)|Red Sandstone Sword|Qualquer Espada|-|
+
+### Armas
+|Icone|Nome|Item|Encantamento|
+|--|--|--|--|
+|![-](https://github.com/KevenCastilho/Year971-Texture-Pack/raw/main/ItemBound/table/27.png)|Handgun|Arco|-|
+|![-](https://github.com/KevenCastilho/Year971-Texture-Pack/raw/main/ItemBound/table/28.png)|Viper|Arco|afiação|
+
+### Fantasia
+|Icone|Nome|Item|Encantamento|
+|--|--|--|--|
+|![-](https://github.com/KevenCastilho/Year971-Texture-Pack/raw/main/ItemBound/table/29.png)|Dark Scythe|Qualquer Machado|Afiação|
+
+### Legendarios
+|Icone|Nome|Item|Encantamento|
+|--|--|--|--|
+|![-](https://github.com/KevenCastilho/Year971-Texture-Pack/raw/main/ItemBound/table/30.png)|Excalibur|Qualquer Espada|-|
+
+### Sabres de Luz
+|Icone|Nome|Item|Encantamento|
+|--|--|--|--|
+|![-](https://github.com/KevenCastilho/Year971-Texture-Pack/raw/main/ItemBound/table/31.png)|Green Lightsaber|Qualquer Espada|Afiação|
+|![-](https://github.com/KevenCastilho/Year971-Texture-Pack/raw/main/ItemBound/table/31.png)|Violet Lightsaber|Qualquer Espada|Afiação|
+|![-](https://github.com/KevenCastilho/Year971-Texture-Pack/raw/main/ItemBound/table/31.png)|Yellow Lightsaber|Qualquer Espada|Afiação|
+|![-](https://github.com/KevenCastilho/Year971-Texture-Pack/raw/main/ItemBound/table/31.png)|Red Lightsaber|Qualquer Espada|Afiação|
+|![-](https://github.com/KevenCastilho/Year971-Texture-Pack/raw/main/ItemBound/table/31.png)|Blue Lightsaber|Qualquer Espada|Afiação|
+
+### Celulares
+##### (Possivel Referencia a Mirai Nikki ?)
+|Icone|Nome|Item|Encantamento|
+|--|--|--|--|
+|![-](https://github.com/KevenCastilho/Year971-Texture-Pack/raw/main/ItemBound/table/32.png)|Black Smartphone|Arco||
+|![-](https://github.com/KevenCastilho/Year971-Texture-Pack/raw/main/ItemBound/table/32.png)|Silver Smartphone|Arco||
+|![-](https://github.com/KevenCastilho/Year971-Texture-Pack/raw/main/ItemBound/table/32.png)|Gold Smartphone|Arco||
+|![-](https://github.com/KevenCastilho/Year971-Texture-Pack/raw/main/ItemBound/table/32.png)|Rose Smartphone|Arco||
+|![-](https://github.com/KevenCastilho/Year971-Texture-Pack/raw/main/ItemBound/table/32.png)|Diamond Smartphone|Arco||
+
+### Sobrevivente
+|Icone|Nome|Item|Encantamento|
+|--|--|--|--|
+|-||||
+</details>
+
 ## Guia para utilizar os novos itens
 <img src="ItemBound/01.png" />
 <img src="ItemBound/02.png" />
