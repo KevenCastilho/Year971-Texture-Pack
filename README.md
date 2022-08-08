@@ -169,7 +169,189 @@ https://vanillatweaks.net/picker/resource-packs/
 ### Sobrevivente
 |Icone|Nome|Item|Encantamento|
 |--|--|--|--|
-|-||||
+|![-](https://github.com/KevenCastilho/Year971-Texture-Pack/raw/main/ItemBound/table/33.png)|1000 Degree Knife|Qualquer Espada|Aspecto Flamejante|
+|![-](https://github.com/KevenCastilho/Year971-Texture-Pack/raw/main/ItemBound/table/34.png)|Apple Pen|Qualquer Espada|-|
+|![-](https://github.com/KevenCastilho/Year971-Texture-Pack/raw/main/ItemBound/table/34.png)|Pineapple Pen|Qualquer Espada|-|
+|![-](https://github.com/KevenCastilho/Year971-Texture-Pack/raw/main/ItemBound/table/34.png)|Pen Pineapple Apple Pen|Qualquer Espada|-|
+|![-](https://github.com/KevenCastilho/Year971-Texture-Pack/raw/main/ItemBound/table/35.png)|Brick|Qualquer Espada|-|
+|![-](https://github.com/KevenCastilho/Year971-Texture-Pack/raw/main/ItemBound/table/36.png)|Twig|Qualquer Espada|-|
+|![-](https://github.com/KevenCastilho/Year971-Texture-Pack/raw/main/ItemBound/table/37.png)|Wooden Bat|Qualquer Espada|-|
+|![-](https://github.com/KevenCastilho/Year971-Texture-Pack/raw/main/ItemBound/table/37.png)|Iron Bat|Qualquer Espada|-|
+|![-](https://github.com/KevenCastilho/Year971-Texture-Pack/raw/main/ItemBound/table/38.png)|Knife|Qualquer Espada|-|
+|![-](https://github.com/KevenCastilho/Year971-Texture-Pack/raw/main/ItemBound/table/39.png)|Microfone|Qualquer Espada|-|
+|![-](https://github.com/KevenCastilho/Year971-Texture-Pack/raw/main/ItemBound/table/40.png)|Green Paintbrush|Qualquer Espada|-|
+|![-](https://github.com/KevenCastilho/Year971-Texture-Pack/raw/main/ItemBound/table/40.png)|Violet Paintbrush|Qualquer Espada|-|
+|![-](https://github.com/KevenCastilho/Year971-Texture-Pack/raw/main/ItemBound/table/40.png)|Yellow Paintbrush|Qualquer Espada|-|
+|![-](https://github.com/KevenCastilho/Year971-Texture-Pack/raw/main/ItemBound/table/40.png)|Red Paintbrush|Qualquer Espada|-|
+|![-](https://github.com/KevenCastilho/Year971-Texture-Pack/raw/main/ItemBound/table/40.png)|Blue Paintbrush|Qualquer Espada|-|
+|![-](https://github.com/KevenCastilho/Year971-Texture-Pack/raw/main/ItemBound/table/41.png)|Green Pinwheel|Qualquer Espada|-|
+|![-](https://github.com/KevenCastilho/Year971-Texture-Pack/raw/main/ItemBound/table/41.png)|Pink Pinwheel|Qualquer Espada|-|
+|![-](https://github.com/KevenCastilho/Year971-Texture-Pack/raw/main/ItemBound/table/41.png)|Yellow Pinwheel|Qualquer Espada|-|
+|![-](https://github.com/KevenCastilho/Year971-Texture-Pack/raw/main/ItemBound/table/41.png)|Red Pinwheel|Qualquer Espada|-|
+|![-](https://github.com/KevenCastilho/Year971-Texture-Pack/raw/main/ItemBound/table/41.png)|Blue Pinwheel|Qualquer Espada|-|
+|![-](https://github.com/KevenCastilho/Year971-Texture-Pack/raw/main/ItemBound/table/42.png)|Green Racket|Qualquer Espada|-|
+|![-](https://github.com/KevenCastilho/Year971-Texture-Pack/raw/main/ItemBound/table/42.png)|Red Racket|Qualquer Espada|-|
+|![-](https://github.com/KevenCastilho/Year971-Texture-Pack/raw/main/ItemBound/table/43.png)|Bus Stop Sign|Qualquer Espada|-|
+|![-](https://github.com/KevenCastilho/Year971-Texture-Pack/raw/main/ItemBound/table/44.png)|Stop Sign|Qualquer Espada|-|
+|![-](https://github.com/KevenCastilho/Year971-Texture-Pack/raw/main/ItemBound/table/45.png)|Work Sign|Qualquer Espada|-|
+
+### Video Game
+|Icone|Nome|Item|Encantamento|
+|--|--|--|--|
+|![-](https://github.com/KevenCastilho/Year971-Texture-Pack/raw/main/ItemBound/table/46.png)|Buster Sword|Qualquer Espada|Repulsão|
+
+### Pistolas D'agua
+|Icone|Nome|Item|Encantamento|
+|--|--|--|--|
+|![-](https://github.com/KevenCastilho/Year971-Texture-Pack/raw/main/ItemBound/table/47.png)|Blue Water Gun|Arco|-|
+|![-](https://github.com/KevenCastilho/Year971-Texture-Pack/raw/main/ItemBound/table/47.png)|Green Water Gun|Arco|-|
+|![-](https://github.com/KevenCastilho/Year971-Texture-Pack/raw/main/ItemBound/table/47.png)|Orange Water Gun|Arco|-|
+|![-](https://github.com/KevenCastilho/Year971-Texture-Pack/raw/main/ItemBound/table/47.png)|Pink Water Gun|Arco|-|
+
+### Utensílios de Escrita
+|Icone|Nome|Item|Encantamento|
+|--|--|--|--|
+|![-](https://github.com/KevenCastilho/Year971-Texture-Pack/raw/main/ItemBound/table/48.png)|Blue Pencil|Qualquer Espada|-|
+|![-](https://github.com/KevenCastilho/Year971-Texture-Pack/raw/main/ItemBound/table/48.png)|Green Pencil|Qualquer Espada|-|
+|![-](https://github.com/KevenCastilho/Year971-Texture-Pack/raw/main/ItemBound/table/48.png)|Red Pencil|Qualquer Espada|-|
+|![-](https://github.com/KevenCastilho/Year971-Texture-Pack/raw/main/ItemBound/table/48.png)|Yellow Pencil|Qualquer Espada|-|
+|![-](https://github.com/KevenCastilho/Year971-Texture-Pack/raw/main/ItemBound/table/49.png)|Blue Marker|Qualquer Espada|-|
+|![-](https://github.com/KevenCastilho/Year971-Texture-Pack/raw/main/ItemBound/table/49.png)|Green Marker|Qualquer Espada|-|
+|![-](https://github.com/KevenCastilho/Year971-Texture-Pack/raw/main/ItemBound/table/49.png)|Red Marker|Qualquer Espada|-|
+|![-](https://github.com/KevenCastilho/Year971-Texture-Pack/raw/main/ItemBound/table/49.png)|Yellow Marker|Qualquer Espada|-|
+|![-](https://github.com/KevenCastilho/Year971-Texture-Pack/raw/main/ItemBound/table/50.png)|Blue Pen|Qualquer Espada|-|
+|![-](https://github.com/KevenCastilho/Year971-Texture-Pack/raw/main/ItemBound/table/50.png)|Green Pen|Qualquer Espada|-|
+|![-](https://github.com/KevenCastilho/Year971-Texture-Pack/raw/main/ItemBound/table/50.png)|Red Pen|Qualquer Espada|-|
+|![-](https://github.com/KevenCastilho/Year971-Texture-Pack/raw/main/ItemBound/table/50.png)|Violet Pen|Qualquer Espada|-|
+|![-](https://github.com/KevenCastilho/Year971-Texture-Pack/raw/main/ItemBound/table/51.png)|Blue Quill|Qualquer Espada|-|
+|![-](https://github.com/KevenCastilho/Year971-Texture-Pack/raw/main/ItemBound/table/51.png)|Green Quill|Qualquer Espada|-|
+|![-](https://github.com/KevenCastilho/Year971-Texture-Pack/raw/main/ItemBound/table/51.png)|Red Quill|Qualquer Espada|-|
+|![-](https://github.com/KevenCastilho/Year971-Texture-Pack/raw/main/ItemBound/table/51.png)|Yellow Quill|Qualquer Espada|-|
+|![-](https://github.com/KevenCastilho/Year971-Texture-Pack/raw/main/ItemBound/table/52.png)|Blue Fountain pen|Qualquer Espada|-|
+|![-](https://github.com/KevenCastilho/Year971-Texture-Pack/raw/main/ItemBound/table/52.png)|Green Fountain pen|Qualquer Espada|-|
+|![-](https://github.com/KevenCastilho/Year971-Texture-Pack/raw/main/ItemBound/table/52.png)|Red Fountain pen|Qualquer Espada|-|
+|![-](https://github.com/KevenCastilho/Year971-Texture-Pack/raw/main/ItemBound/table/52.png)|Yellow Fountain pen|Qualquer Espada|-|
+
+### Isqueiros
+|Icone|Nome|Item|Encantamento|
+|--|--|--|--|
+|![-](https://github.com/KevenCastilho/Year971-Texture-Pack/raw/main/ItemBound/table/53.png)|Red Lighter|Pederneira||
+|![-](https://github.com/KevenCastilho/Year971-Texture-Pack/raw/main/ItemBound/table/53.png)|Orange Lighter|Pederneira||
+|![-](https://github.com/KevenCastilho/Year971-Texture-Pack/raw/main/ItemBound/table/53.png)|Yellow Lighter|Pederneira||
+|![-](https://github.com/KevenCastilho/Year971-Texture-Pack/raw/main/ItemBound/table/53.png)|Green Lighter|Pederneira||
+|![-](https://github.com/KevenCastilho/Year971-Texture-Pack/raw/main/ItemBound/table/53.png)|Blue Lighter|Pederneira||
+|![-](https://github.com/KevenCastilho/Year971-Texture-Pack/raw/main/ItemBound/table/53.png)|Violet Lighter|Pederneira||
+|![-](https://github.com/KevenCastilho/Year971-Texture-Pack/raw/main/ItemBound/table/53.png)|Pink Lighter|Pederneira||
+|![-](https://github.com/KevenCastilho/Year971-Texture-Pack/raw/main/ItemBound/table/53.png)|White Lighter|Pederneira||
+|![-](https://github.com/KevenCastilho/Year971-Texture-Pack/raw/main/ItemBound/table/53.png)|Black Lighter|Pederneira||
+
+### Fidget Spinners
+|Icone|Nome|Item|Encantamento|
+|--|--|--|--|
+|![-](https://github.com/KevenCastilho/Year971-Texture-Pack/raw/main/ItemBound/table/54.png)|Red Fidget Spinner|Vara de Pescar|-|
+|![-](https://github.com/KevenCastilho/Year971-Texture-Pack/raw/main/ItemBound/table/54.png)|Orange Fidget Spinner|Vara de Pescar|-|
+|![-](https://github.com/KevenCastilho/Year971-Texture-Pack/raw/main/ItemBound/table/54.png)|Yellow Fidget Spinner|Vara de Pescar|-|
+|![-](https://github.com/KevenCastilho/Year971-Texture-Pack/raw/main/ItemBound/table/54.png)|Green Fidget Spinner|Vara de Pescar|-|
+|![-](https://github.com/KevenCastilho/Year971-Texture-Pack/raw/main/ItemBound/table/54.png)|Blue Fidget Spinner|Vara de Pescar|-|
+|![-](https://github.com/KevenCastilho/Year971-Texture-Pack/raw/main/ItemBound/table/54.png)|Violet Fidget Spinner|Vara de Pescar|-|
+|![-](https://github.com/KevenCastilho/Year971-Texture-Pack/raw/main/ItemBound/table/54.png)|Pink Fidget Spinner|Vara de Pescar|-|
+|![-](https://github.com/KevenCastilho/Year971-Texture-Pack/raw/main/ItemBound/table/54.png)|White Fidget Spinner|Vara de Pescar|-|
+|![-](https://github.com/KevenCastilho/Year971-Texture-Pack/raw/main/ItemBound/table/54.png)|Black Fidget Spinner|Vara de Pescar|-|
+
+### Picaretas
+|Icone|Nome|Item|Encantamento|
+|--|--|--|--|
+|![-](https://github.com/KevenCastilho/Year971-Texture-Pack/raw/main/ItemBound/table/55.png)|Drill|Picareta de Ferro|Eficiencia|
+|![-](https://github.com/KevenCastilho/Year971-Texture-Pack/raw/main/ItemBound/table/55.png)|Drill|Picareta de Ouro|Eficiencia|
+|![-](https://github.com/KevenCastilho/Year971-Texture-Pack/raw/main/ItemBound/table/55.png)|Drill|Picareta de Diamante|Eficiencia|
+|![-](https://github.com/KevenCastilho/Year971-Texture-Pack/raw/main/ItemBound/table/56.png)|Fork|Qualquer Picareta|-|
+
+### Pá
+|Icone|Nome|Item|Encantamento|
+|--|--|--|--|
+|![-](https://github.com/KevenCastilho/Year971-Texture-Pack/raw/main/ItemBound/table/57.png)|Spoon|Qualquer Pá|-|
+
+### Tesouras
+|Icone|Nome|Item|Encantamento|
+|--|--|--|--|
+|![-](https://github.com/KevenCastilho/Year971-Texture-Pack/raw/main/ItemBound/table/58.png)|Razor|Tesoura|-|
+|![-](https://github.com/KevenCastilho/Year971-Texture-Pack/raw/main/ItemBound/table/59.png)|Blue Scissors|Tesoura|-|
+|![-](https://github.com/KevenCastilho/Year971-Texture-Pack/raw/main/ItemBound/table/59.png)|Green Scissors|Tesoura|-|
+|![-](https://github.com/KevenCastilho/Year971-Texture-Pack/raw/main/ItemBound/table/59.png)|Red Scissors|Tesoura|-|
+
+## Escudos
+### Pranchas
+|Icone|Nome|Item|Encantamento|
+|--|--|--|--|
+|![-](https://github.com/KevenCastilho/Year971-Texture-Pack/raw/main/ItemBound/table/60.png)|Red Bodyboard|Escudo|-|
+|![-](https://github.com/KevenCastilho/Year971-Texture-Pack/raw/main/ItemBound/table/60.png)|Yellow Bodyboard|Escudo|-|
+|![-](https://github.com/KevenCastilho/Year971-Texture-Pack/raw/main/ItemBound/table/60.png)|Green Bodyboard|Escudo|-|
+|![-](https://github.com/KevenCastilho/Year971-Texture-Pack/raw/main/ItemBound/table/60.png)|Blue Bodyboard|Escudo|-|
+|![-](https://github.com/KevenCastilho/Year971-Texture-Pack/raw/main/ItemBound/table/60.png)|Purple Bodyboard|Escudo|-|
+|![-](https://github.com/KevenCastilho/Year971-Texture-Pack/raw/main/ItemBound/table/60.png)|Pink Bodyboard|Escudo|-|
+|![-](https://github.com/KevenCastilho/Year971-Texture-Pack/raw/main/ItemBound/table/60.png)|Black Bodyboard|Escudo|-|
+
+### Escudos de Madeira
+|Icone|Nome|Item|Encantamento|
+|--|--|--|--|
+|![-](https://github.com/KevenCastilho/Year971-Texture-Pack/raw/main/ItemBound/table/61.png)|Birch Log Shield|Escudo|-|
+|![-](https://github.com/KevenCastilho/Year971-Texture-Pack/raw/main/ItemBound/table/61.png)|Oak Log Shield|Escudo|-|
+|![-](https://github.com/KevenCastilho/Year971-Texture-Pack/raw/main/ItemBound/table/61.png)|Jungle Log Shield|Escudo|-|
+|![-](https://github.com/KevenCastilho/Year971-Texture-Pack/raw/main/ItemBound/table/61.png)|Acacia Log Shield|Escudo|-|
+|![-](https://github.com/KevenCastilho/Year971-Texture-Pack/raw/main/ItemBound/table/61.png)|Spruce Log Shield|Escudo|-|
+|![-](https://github.com/KevenCastilho/Year971-Texture-Pack/raw/main/ItemBound/table/61.png)|Dark Oak Log Shield|Escudo|-|
+
+## Armaduras
+### Capas
+|Icone|Nome|Item|Encantamento|
+|--|--|--|--|
+|![-](https://github.com/KevenCastilho/Year971-Texture-Pack/raw/main/ItemBound/table/63.png)|Plain Cape|Armadura de Couro|-|
+|![-](https://github.com/KevenCastilho/Year971-Texture-Pack/raw/main/ItemBound/table/64.png)|Rainbow Cape|Qualquer Armadura|-|
+|![-](https://github.com/KevenCastilho/Year971-Texture-Pack/raw/main/ItemBound/table/65.png)|Blue Haven Cape|Qualquer Armadura|-|
+|![-](https://github.com/KevenCastilho/Year971-Texture-Pack/raw/main/ItemBound/table/66.png)|ItemBound Cape|Qualquer Armadura|-|
+|![-](https://github.com/KevenCastilho/Year971-Texture-Pack/raw/main/ItemBound/table/67.png)|Blaze Cape|Qualquer Armadura|Proteção Contra Fogo|
+|![-](https://github.com/KevenCastilho/Year971-Texture-Pack/raw/main/ItemBound/table/68.png)|Creeper Cape|Qualquer Armadura|Proteção Contra Explosão|
+|![-](https://github.com/KevenCastilho/Year971-Texture-Pack/raw/main/ItemBound/table/69.png)|Cross Cape|Qualquer Armadura|Proteção|
+|![-](https://github.com/KevenCastilho/Year971-Texture-Pack/raw/main/ItemBound/table/70.png)|Curse Cape|Qualquer Armadura|Espinhos|
+
+### Fantasias
+|Icone|Nome|Item|Encantamento|
+|--|--|--|--|
+|![-](https://github.com/KevenCastilho/Year971-Texture-Pack/raw/main/ItemBound/table/71.png)|Cat Ears|Capacete de Couro|-|
+|![-](https://github.com/KevenCastilho/Year971-Texture-Pack/raw/main/ItemBound/table/72.png)|Gold Cat Ears|Qualquer Capacete|-|
+|![-](https://github.com/KevenCastilho/Year971-Texture-Pack/raw/main/ItemBound/table/72.png)|Zombie Cat Ears|Qualquer Capacete|-|
+|![-](https://github.com/KevenCastilho/Year971-Texture-Pack/raw/main/ItemBound/table/72.png)|Calico Cat Ears|Qualquer Capacete|-|
+|![-](https://github.com/KevenCastilho/Year971-Texture-Pack/raw/main/ItemBound/table/72.png)|Diamond Cat Ears|Qualquer Capacete|-|
+|![-](https://github.com/KevenCastilho/Year971-Texture-Pack/raw/main/ItemBound/table/73.png)|Halo|Qualquer Capacete|Proteção|
+|![-](https://github.com/KevenCastilho/Year971-Texture-Pack/raw/main/ItemBound/table/74.png)|Black Striped Socks|Calça de Couro|-|
+|![-](https://github.com/KevenCastilho/Year971-Texture-Pack/raw/main/ItemBound/table/74.png)|White Striped Socks|Calça de Couro|-|
+|![-](https://github.com/KevenCastilho/Year971-Texture-Pack/raw/main/ItemBound/table/75.png)|Rainbow Socks|Qualquer Calça|-|
+|![-](https://github.com/KevenCastilho/Year971-Texture-Pack/raw/main/ItemBound/table/75.png)|Pastel Rainbow Socks|Qualquer Calça|-|
+
+### Power Ranger
+|Icone|Nome|Item|Encantamento|
+|--|--|--|--|
+|![-](https://github.com/KevenCastilho/Year971-Texture-Pack/raw/main/ItemBound/table/76-1.png)|&#60;cor&#62; Power Crafter Helmet|Qualquer Capacete|-|
+|![-](https://github.com/KevenCastilho/Year971-Texture-Pack/raw/main/ItemBound/table/76-2.png)|&#60;cor&#62; Power Crafter Chestplate|Qualquer Peitoral|-|
+|![-](https://github.com/KevenCastilho/Year971-Texture-Pack/raw/main/ItemBound/table/76-3.png)|&#60;cor&#62; Power Crafter Leggings|Qualquer Calça|-|
+|![-](https://github.com/KevenCastilho/Year971-Texture-Pack/raw/main/ItemBound/table/76-4.png)|&#60;cor&#62; Power Crafter Boots|Qualquer Bota|-|
+###### Cores: Blue, Green, Yellow, Red, Pink | Exemplo: Red Power Crafter Helmet
+
+### Armadura Invisivel
+|Icone|Nome|Item|Encantamento|
+|--|--|--|--|
+|![-](https://github.com/KevenCastilho/Year971-Texture-Pack/raw/main/ItemBound/table/77-1.png)|Invisible Helmet|Qualquer Capacete|-|
+|![-](https://github.com/KevenCastilho/Year971-Texture-Pack/raw/main/ItemBound/table/77-2.png)|Invisible Chestplate|Qualquer Peitoral|-|
+|![-](https://github.com/KevenCastilho/Year971-Texture-Pack/raw/main/ItemBound/table/77-3.png)|Invisible Leggings|Qualquer Calça|-|
+|![-](https://github.com/KevenCastilho/Year971-Texture-Pack/raw/main/ItemBound/table/77-4.png)|Invisible Boots|Qualquer Bota|-|
+
+### Armadura "Minecraft"
+|Icone|Nome|Item|Encantamento|
+|--|--|--|--|
+|![-](https://github.com/KevenCastilho/Year971-Texture-Pack/raw/main/ItemBound/table/78-1.png)|Slime Helmet|Capacete de Couro|-|
+|![-](https://github.com/KevenCastilho/Year971-Texture-Pack/raw/main/ItemBound/table/78-2.png)|Slime Top|Peitoral de Couro|-|
+|![-](https://github.com/KevenCastilho/Year971-Texture-Pack/raw/main/ItemBound/table/78-3.png)|Slime Pants|Calça de Couro|-|
+|![-](https://github.com/KevenCastilho/Year971-Texture-Pack/raw/main/ItemBound/table/78-4.png)|Slime Boots|Bota de Couro|-|
 </details>
 
 ## Guia para utilizar os novos itens
