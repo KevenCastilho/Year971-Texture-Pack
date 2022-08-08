@@ -2,7 +2,56 @@
 
 Year971 Texture Pack é um pacote de texturas e recursos compativel com minecraft 1.16 até 1.16.4, no qual reuno tudo o que encontro na internet que agregue ao jogo e que eu goste, ou seja, eu não desenhei nada neste pacote de textura e recursos, apenas reuni o que gostei e configurei corretamente para serem compativeis entre si, todos os creditos são de seus respectivos criadores, meus créditos são apenas por reunir e configurar todos os recursos de forma que não entrem em conflitos entre si.
 
+## Mods Suportados
+Alem dos recursos convencionais do minecraft esta resourcepack tambem dá suporte a alguns mods da comunidade, segue a baixo a lista dos mods
 
+<details>
+<summary>Mods Suportados</summary>
+
+ - advancementplaques
+ - aether
+ - ambience
+ - apotheosis
+ - baubles
+ - botania
+ - byg
+ - chisel
+ - cookingforblockheads
+ - craftingtweaks
+ - curios
+ - cyclopscore
+ - endergetic
+ - enderstorage
+ - everlastingabilities
+ - extraboats
+ - fairylights
+ - farmingforblockheads
+ - fml
+ - forge
+ - immersiveengineering
+ - ironbackpacks
+ - ironchest
+ - jei
+ - jeresources
+ - legendarytooltips
+ - mb
+ - mea
+ - midnight
+ - mysticalagriculture
+ - pamhc2crops
+ - patchouli
+ - psi
+ - quark
+ - realms
+ - refinedstorage
+ - silentgear
+ - storagedrawers
+ - tconstruct
+ - thermal
+ - twilightforest
+ - upgrade_aquatic
+
+</details>
 
 <details>
 <summary>Recursos</summary>
