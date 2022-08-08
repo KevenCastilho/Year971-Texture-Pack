@@ -1,5 +1,4 @@
 # Year971 Texture Pack
-## Pacte de textura de recursos para minecraft 1.16.4
 
 Year971 Texture Pack é um pacote de texturas e recursos compativel com minecraft 1.16 até 1.16.4, no qual reuno tudo o que encontro na internet que agregue ao jogo e que eu goste, ou seja, eu não desenhei nada neste pacote de textura e recursos, apenas reuni o que gostei e configurei corretamente para serem compativeis entre si, todos os creditos são de seus respectivos criadores, meus créditos são apenas por reunir e configurar todos os recursos de forma que não entrem em conflitos entre si.
 
