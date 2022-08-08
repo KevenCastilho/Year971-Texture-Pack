@@ -670,6 +670,8 @@ https://vanillatweaks.net/picker/resource-packs/
 |![-](https://github.com/KevenCastilho/Year971-Texture-Pack/raw/main/ItemBound/table/78-4.png)|Slime Boots|Bota de Couro|-|
 </details>
 
+<details>
+<summary>Prints ItemBound</summary>
 ## Guia para utilizar os novos itens
 <img src="ItemBound/01.png" />
 <img src="ItemBound/02.png" />
@@ -732,3 +734,4 @@ https://vanillatweaks.net/picker/resource-packs/
 <img src="ItemBound/59.png" />
 <img src="ItemBound/60.png" />
 <img src="ItemBound/61.png" />
+</details>
