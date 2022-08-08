@@ -6,6 +6,7 @@ Year971 Texture Pack é um pacote de texturas e recursos compativel com minecraf
 
 <details>
 <summary>Recursos</summary>
+
 Atualmente o pacote de texturas e recursos Year971 conta com
 - Faithful 1.16 (Base)
 https://faithful.team/
@@ -23,10 +24,12 @@ https://www.planetminecraft.com/texture-pack/potion-icons-java-edition/
 https://www.planetminecraft.com/texture-pack/cute-mob-models-resource-pack-my-own-version/
 - Vanilla Tweaks (Recursos Extras)
 https://vanillatweaks.net/picker/resource-packs/
+
 </details>
 
 <details>
 <summary>Recursos (sem link)</summary>
+
  - DifferentStems  
  - BetterParticles  
  - HDShieldBanners  
@@ -73,6 +76,7 @@ https://vanillatweaks.net/picker/resource-packs/
  - StandardGalactic  
  - SGAToEnglish  
  - DoubleSlabFix  
+ 
 </details>
 
 <details>
