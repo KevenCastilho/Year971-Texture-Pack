@@ -53,6 +53,10 @@ Alem dos recursos convencionais do minecraft esta resourcepack tambem dá suport
 
 </details>
 
+## Informações Adicionais
+### Recursos Conhecidos
+Este resourcepack tambem conta com recursos de alguns textures packs já conhecidos pela comunidade, segue abaixo a lista com links de referencia.
+
 <details>
 <summary>Recursos</summary>
 
@@ -75,6 +79,9 @@ https://www.planetminecraft.com/texture-pack/cute-mob-models-resource-pack-my-ow
 https://vanillatweaks.net/picker/resource-packs/
 
 </details>
+
+## Recursos Desconhecidos
+Este resourcepack tambem contam com recursos interessantes, porem, de desenvolvedores até então desconhecidos, caso você seja criador de algum conteudo desta lista por favor entre en contato que colocarei seus devidos crédios, segue abaixo a lista dos mesmos:
 
 <details>
 <summary>Recursos (sem link)</summary>
@@ -127,6 +134,8 @@ https://vanillatweaks.net/picker/resource-packs/
  - DoubleSlabFix  
  
 </details>
+
+### ItemBound (Em Construção)
 
 <details>
 <summary>Guia de uso do ItemBound</summary>
@@ -721,6 +730,8 @@ https://vanillatweaks.net/picker/resource-packs/
 |![-](ItemBound/table/78-3.png)|Slime Pants|Calça de Couro|-|
 |![-](ItemBound/table/78-4.png)|Slime Boots|Bota de Couro|-|
 </details>
+
+### ItemBound (Prints do PDF)
 
 <details>
 <summary>Prints ItemBound</summary>
