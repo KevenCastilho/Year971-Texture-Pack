@@ -1,151 +1,29 @@
 {
-  "parent": "item/handheld",
-  "textures": {
-    "layer0": "item/diamond_hoe"
-  },
-  "overrides": [
-    {
-      "predicate": {
-        "custom_model_data": 200000
-      },
-      "model": "mb:item/soul_dragon/skull"
+    "parent": "item/handheld",
+    "textures": {
+        "layer0": "item/diamond_hoe"
     },
-    {
-      "predicate": {
-        "custom_model_data": 200001
-      },
-      "model": "mb:item/soul_dragon/body"
-    },
-
-    {
-      "predicate": {
-        "custom_model_data": 200100
-      },
-      "model": "mb:item/soulbound/marker"
-    },
-
-
-
-    {
-      "predicate": {
-        "custom_model_data": 300000
-      },
-      "model": "mb:item/queen_bee/model/bee_flap_1"
-    },
-    {
-      "predicate": {
-        "custom_model_data": 300001
-      },
-      "model": "mb:item/queen_bee/model/bee_flap_2"
-    },
-    {
-      "predicate": {
-        "custom_model_data": 300006
-      },
-      "model": "mb:item/queen_bee/model/attack_marker"
-    },
-    {
-      "predicate": {
-        "custom_model_data": 300007
-      },
-      "model": "mb:item/queen_bee/model/bee_stinger_1"
-    },
-    {
-      "predicate": {
-        "custom_model_data": 300008
-      },
-      "model": "mb:item/queen_bee/model/bee_stinger_2"
-    },
-    {
-      "predicate": {
-        "custom_model_data": 300009
-      },
-      "model": "mb:item/queen_bee/hurt/hurt"
-    },
-    
-    {
-      "predicate": {
-        "custom_model_data": 300100
-      },
-      "model": "mb:item/queen_bee/bee_cloak/bee_cloak_closed"
-    },
-    {
-      "predicate": {
-        "custom_model_data": 300101
-      },
-      "model": "mb:item/queen_bee/bee_cloak/bee_cloak_open"
-    },
-
-
-
-    {
-      "predicate": {
-        "custom_model_data": 400000
-      },
-      "model": "mb:item/herobrine/model/default_pose"
-    },
-    {
-      "predicate": {
-        "custom_model_data": 400001
-      },
-      "model": "mb:item/herobrine/model/walk_1"
-    },
-    {
-      "predicate": {
-        "custom_model_data": 400002
-      },
-      "model": "mb:item/herobrine/model/walk_2"
-    },
-    {
-      "predicate": {
-        "custom_model_data": 400003
-      },
-      "model": "mb:item/herobrine/model/walk_3"
-    },
-    {
-      "predicate": {
-        "custom_model_data": 400004
-      },
-      "model": "mb:item/herobrine/model/walk_4"
-    },
-    {
-      "predicate": {
-        "custom_model_data": 400005
-      },
-      "model": "mb:item/herobrine/model/arms_up"
-    },
-    {
-      "predicate": {
-        "custom_model_data": 400006
-      },
-      "model": "mb:item/herobrine/model/hurt"
-    },
-    {
-      "predicate": {
-        "custom_model_data": 400007
-      },
-      "model": "mb:item/herobrine/model/hurt_glitch"
-    },
-    {
-      "predicate": {
-        "custom_model_data": 400008
-      },
-      "model": "mb:item/herobrine/model/spike"
-    },
-
-
-
-    {
-      "predicate": {
-        "custom_model_data": 696969
-      },
-      "model": "mb:item/secret/secret"
-    },
-    {
-      "predicate": {
-        "custom_model_data": 696970
-      },
-      "model": "mb:item/secret/honkazalobonkalozabokerdonk"
-    }
-  ]
+    "overrides": [
+        {
+            "predicate": {
+                "damaged": 1,
+                "damage": 0.85
+            },
+            "model": "item/diamond_hoe/diamond_hoe_02"
+        },
+        {
+            "predicate": {
+                "damaged": 1,
+                "damage": 0.9
+            },
+            "model": "item/diamond_hoe/diamond_hoe_03"
+        },
+        {
+            "predicate": {
+                "damaged": 1,
+                "damage": 0.95
+            },
+            "model": "item/diamond_hoe/diamond_hoe_04"
+        }
+    ]
 }

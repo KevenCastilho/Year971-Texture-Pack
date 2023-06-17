@@ -1,0 +1,1 @@
+{"models":[{"part":"body","id":"body","attach":"true","texture":"textures/entity/healthbar_passive.png","textureSize":[44,4],"invertAxis":"xy","translate":[0,-1.5,0],"boxes":[{"coordinates":[-11,6,0,22,4,0],"textureOffset":[0,0]}]}]}

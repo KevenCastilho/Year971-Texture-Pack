@@ -1,0 +1,1 @@
+{"models":[{"part":"head","id":"head","attach":"true","texture":"textures/entity/healthbar_hostile.png","textureSize":[44,4],"invertAxis":"xy","translate":[0,-21,8.5],"submodels":[{"id":"healthbar","invertAxis":"xy","translate":[0,30,-10],"rotate":[50,0,0],"boxes":[{"coordinates":[-11,0,0,22,4,0],"textureOffset":[0,0]}]}]}]}
