@@ -132,7 +132,73 @@ Este resourcepack tambem contam com recursos interessantes, porem, de desenvolve
  - StandardGalactic  
  - SGAToEnglish  
  - DoubleSlabFix  
- 
+  - SGAToEnglish
+ - NostalgiaPanorama
+ - PolishedAndesiteBG
+ - SmootherFont
+ - NumberedHotbar
+ - MoreCrosshairs-PlusDot
+ - PingColorIndicator
+ - 3DTiles
+ - 3DLadders
+ - 3DRails
+ - 3DSugarcane
+ - 3DIronBars
+ - 3DLilyPads
+ - 3DMushrooms
+ - 3DDoors&Trapdoors
+ - 3DVines
+ - 3DStonecutters
+ - BorderlessGlass
+ - BorderlessStainedGlass
+ - CleanGlass
+ - CleanStainedGlass
+ - LowerFire
+ - LowerShield
+ - NoVignette
+ - DiminishingTools
+ - OreBorders
+ - VisualInfestedStoneItems
+ - FullAgeCropMarker
+ - Age25Kelp
+ - ClearBannerPatterns
+ - StickyPistonSides
+ - DirectionalHoppers
+ - DirectionalDispensersDroppers
+ - BetterObservers
+ - GroovyLevers
+ - VisibleTripwires
+ - BrewingGuideDark
+ - VisualCauldronStages
+ - VisualHoney
+ - VisualComposterStages
+ - VisualSaplingGrowth
+ - NoteblockBanners
+ - ArabicNumerals
+ - ConnectedBookshelves
+ - ConnectedIronBlocks
+ - ConnectedLapisBlocks
+ - ConnectedPolishedStones
+ - GrassSides
+ - MyceliumSides
+ - PathSides
+ - PodzolSides
+ - SnowSides
+ - CrimsonNyliumSides
+ - WarpedNyliumSides
+ - BushyLeaves
+ - DarkerDarkOakLeaves
+ - CircleLogTops
+ - SmootherStones
+ - SofterWool
+ - BetterParticles
+ - RedIronGolemFlowers
+ - AnimatedCampfireItem
+ - AshlessCampfires
+ - Entity Healthbars Hearts
+ - Icons!
+ - Year971 Totem v9
+ - FreshAnimations_v1.6
 </details>
 
 ### ItemBound (Em Construção)
